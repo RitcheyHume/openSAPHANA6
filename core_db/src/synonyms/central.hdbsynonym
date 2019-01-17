@@ -1,0 +1,17 @@
+{
+  "ISO.COUNTRIES": {
+    "target": {
+      "object": "ISO.COUNTRIES"
+    }
+  },
+  "ISO.CURRENCIES": {
+    "target": {
+      "object": "ISO.CURRENCIES"
+    }
+  },
+  "ISO.SUBDIVISIONS": {
+    "target": {
+      "object": "ISO.SUBDIVISIONS"
+    }
+  }
+}

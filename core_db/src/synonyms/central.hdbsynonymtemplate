@@ -1,0 +1,20 @@
+{
+	"ISO.COUNTRIES": {
+		"target": {
+			"grantor": "central-db-service",
+			"object": "ISO.COUNTRIES"
+		}
+	},
+	"ISO.CURRENCIES": {
+		"target": {
+			"grantor": "central-db-service",
+			"object": "ISO.CURRENCIES"
+		}
+	},
+	"ISO.SUBDIVISIONS": {
+		"target": {
+			"grantor": "central-db-service",
+			"object": "ISO.SUBDIVISIONS"
+		}
+	}
+}
